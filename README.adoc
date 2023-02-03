@@ -1,5 +1,15 @@
-= ⭐ WELCOME TO MY GITHUB ⭐
+= ⭐WELCOME TO MY GITHUB ⭐
 
+
+== MY SKILLS ⚙
+[.align-center]
+image:./img/html5.png[HTML,50,30]
+image:./img/css3.png[CSS,67,30]
+image:./img/java.png[JAVA,70,30]
+
+
+
+== MY PROJECTS👋
 :tip-caption: pass:[📅]
 [TIP]
 https://github.com/MattiasWolfslehner/[AdventCalendar].git | php-advent-calender
