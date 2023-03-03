@@ -2,10 +2,10 @@
 
 
 == MY SKILLS ⚙
-image:./img/html5.png[HTML,50,30]
-image:./img/css3.png[CSS,67,30]
-image:./img/java.png[JAVA,70,30]
-
+image:./img/html5.svg[HTML,56,30]
+image:./img/css3.svg[CSS,50,30]
+image:./img/js.svg[JAVA,49,30]
+image:./img/java.svg[JAVA,70,30]
 
 
 == MY PROJECTS👋
